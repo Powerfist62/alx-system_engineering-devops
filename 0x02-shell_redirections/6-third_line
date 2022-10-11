@@ -1,2 +1,1 @@
-#!/bin/bash
-head -3 ./iacta | tail +3 ./iacta
+#!/bin/bashl +3 ./iacta
